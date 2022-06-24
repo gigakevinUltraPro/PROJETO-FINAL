@@ -3,5 +3,5 @@ PROJETO FINAL DE PROGRAMAÇÃO WEB
 - Utilizando o HTML e CSS para criação do esqueleto e estilização do site e armazenamento das informações/notícias
 
 FERRAMENTAS UTILIZADAS
-- HTML e CSS
+- HTML,CSS e Java Script
 

@@ -1,0 +1,25 @@
+.container img {
+    max-width:500px;
+    max-height:300px;
+    width: auto;
+    height: auto;
+}
+body{
+    width: 95%;
+    margin: auto;
+    text-align: center;
+    margin-top: 20px;
+    
+}
+.container2 img {
+    max-width:800px;
+    max-height:400px;
+    width: auto;
+    height: auto;
+}
+.container3 img {
+    max-width:800px;
+    max-height:400px;
+    width: auto;
+    height: auto;
+}

@@ -37,3 +37,22 @@
     float: right;
     background-color: rgb(24, 139, 233);
 }
+body{
+    width: 95%;
+    margin: auto;
+    text-align: center;
+    margin-top: 20px;
+    
+}
+.container img {
+    max-width:700px;
+    max-height:500px;
+   
+    text-align: center;
+}
+.container2 img {
+    max-width:700px;
+    max-height:500px;
+   
+    text-align: center;
+}
